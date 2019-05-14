@@ -1,0 +1,51 @@
+
+body {
+	background: crimson;
+}
+.logo{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.instructions {
+	background-color:lightgrey;
+}
+
+#gameSection, #scoreSection {
+	background-color: lightgray;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+#buttonSection {
+
+	padding: 0px;
+	padding-top: 50px;
+	padding-bottom: 25px;
+}
+
+
+h1, h2, h3 {
+	font-family: 'Alfa Slab One', cursive;
+}
+
+p {
+	font-family: 'Ek Mukta', sans-serif;
+}
+
+.numberBox {
+	font-size: 100px;
+	margin: 0px;
+}
+
+.icons {
+	display: inline-block;
+  	max-width: 100px;
+  	max-height: 100px;
+  	width: auto;
+  	height: auto;
+  	margin:10px;
+}

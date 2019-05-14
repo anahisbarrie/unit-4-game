@@ -15,7 +15,7 @@ function start(){
     shoeval2 = Math.floor(Math.random() * 12) + 1;
     shoeval3 = Math.floor(Math.random() * 12) + 1;
     shoeval4 = Math.floor(Math.random() * 12) + 1;
-    randomNumber = Math.floor(Math.random() * 120) + 19;
+    randomNumber = Math.floor(Math.random() * 101) + 19;
 
     $("#totalNumber").text("0")
     guesses = 0;
